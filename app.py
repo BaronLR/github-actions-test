@@ -6,7 +6,7 @@ app = Flask(__name__)
 hard_coded_tasks = [
     {
         'id': 1,
-        'title': u'Buy ice cream',
+        'title': u'Buy grocries ',
         'description': u'Milk, Cheese, Pizza, Fruit, Tylenol', 
         'done': False
     },
